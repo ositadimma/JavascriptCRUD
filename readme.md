@@ -1,7 +1,7 @@
 # javascript CRUD API code
 
 This is code for a javascript and NodeJS REST API for create, retrieve, update and delete(CRUD) operations. 
-this API uses HTTP verbs(get, post, put, delete) to communicate and HTTP response codes to indenticate status and errors. The API handles account creation, authentication and login, userdata posting and retrieval to and from a Mongo database.
+This API uses HTTP verbs(get, post, put, delete) to communicate and HTTP response codes to indenticate status and errors. The API handles account creation, authentication and login, userdata posting and retrieval to and from a Mongo database.
 
 
 ## Register user account
